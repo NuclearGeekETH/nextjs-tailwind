@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and [Tailwind](https://tailwindcss.com/docs/guides/nextjs).
+
+### Install
+
+```bash
+npx create-next-app@latest my-next-app --use-npm --example "https://github.com/NuclearGeekETH/nextjs-tailwind"
+```
 
 ## Getting Started
 
